@@ -1,0 +1,45 @@
+body 
+    {
+        background-color: #ffffff;
+    }
+hr 
+    {
+        border-style: none;
+        border-color: rgb(108, 211, 211);
+        border-top-style: dotted;
+        border-width: 5px;
+        width: 9%;
+    }
+img 
+    {
+       background-size: 100px;
+    }
+h3
+    {
+        color:#66BFBF;
+    }
+h1
+    {
+        color:#66BFBF;
+    }   
+img
+{
+    width: 250px;
+}
+h2
+{
+    color:#66BFBF;
+}
+a
+{
+    color: rgb(255, 132, 0);
+}
+a:hover
+{
+    color: rgb(0, 42, 255);
+}
+/*.contents
+{
+    max-width: 500px;
+    margin: auto;
+}*/
